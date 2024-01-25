@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+      
+<head>
+    <title>My Resume</title>
+
+    <style>
+        
+        h1{
+            color: #e3ecf4;
+        }
+        p{
+            color: #fffbff;
+            font-size: 15px;
+        }
+        .heading{
+            font-size: 40px;
+        }
+        .border {
+            border: solid 4px rgba(193, 60, 234, 0.95);
+        }
+        .bggblue{
+            background-color: #011020;
+        }
+        #content{
+            color: #e3ecf4;
+            background-color: #000407;
+            font-size: 30px;
+        }
+        .border_sky {
+        border: solid 10px rgb(0, 182, 254);
+        padding: 15px;
+        display: inline-block;
+        font-size: 15px;
+        color: #ffffff;
+    }        
+    li{
+        color: #e3ecf4;
+    }
+       
+    </style>
+</head>
+      
+        <body>
+            <body background = "https://pbs.twimg.com/media/FxL76GxXsAAlcGa?format=jpg&name=4096x4096">
+            <center>
+                <h1 class="bggblue">My Resume</h1>
+                <img src = "https://scontent.fbkk4-1.fna.fbcdn.net/v/t39.30808-6/369558323_1264422310870621_5469764401580735651_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHwsxGPad66EfXUSyDXbK8skFCY6vF3w_eQUJjq8XfD93cszjidNYiac4VrKZ2yKWusj86cRqo7CqdJY71owIKF&_nc_ohc=oHwCjz6z_jYAX_iNG43&_nc_zt=23&_nc_ht=scontent.fbkk4-1.fna&oh=00_AfDximPcwZI9w3SB0UTkTJjn9OUSLWCT_bx0ZD9_WXKBlg&oe=65894B20"
+                width="200" height="200"class="border">
+                
+                <p> นาย เจตนิพัทธ์ ยงยุทธ </p> 
+                <p> คณะ : วิทยาศาสตร์ ศรีราชา</p>
+                <p> สาขาวิชา : เทคโนโลยีสารสนเทศ</p>
+                
+                <div class="border_sky">ข้อมูลส่วนตัว</div>
+                <p>ชื่อเล่น : เอิร์ธ </p>
+                <p>วัน/เดือน/ปี เกิด : วันที่ 4  เมษายน พ.ศ.2547 </p>
+                <p>อายุ : 19  น้ำหนัก: 56 kg</p>
+                <p>ส่วนสูง : 168 cm กรุ๊ปเลือด : B </p>
+                <p>เชื้อชาติ : ไทย สัญชาติ : ไทย ศาสนา : พุทธ</p>
+                <div class="border_sky">ความสามารถพิเศษ</div>
+                <li>ทักษะการใช้โปรแกรมตัดต่อวิดีโอ,ทักษะการเล่นแบดมินตัน,ทักษะการวาดรูป</li>
+                <div id = "content">^^Thankyou^^</div>
+                
+            </center>
+
+        </body>
+
+</html>
